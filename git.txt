@@ -1,1 +1,6 @@
-git.txt
+git clone: sirve para realizar una copia remota del repositorio. Inidcando la dirección del repositorio actual y del repositorio destino. 
+git status: indica la rama en la que estás: main. La rama está aactualizada. Y que no hay cambios pendientes de ser actualizados
+git add: 
+git commit
+git push
+git checkout
